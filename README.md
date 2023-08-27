@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Installed Packages:
+npm install express mysql cors
+npm install msnodesqlv8
+npm install mssql
+npm i bootstrap
+npm install nodemon
+
+To run server and connect to DB:
+node server.js
